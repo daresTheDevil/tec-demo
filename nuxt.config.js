@@ -44,7 +44,7 @@ export default {
   ],
   strapi: {
     entities: ['posts'],
-    url: 'http://localhost:1337',
+    url: 'https://floating-wildwood-84086.herokuapp.com',
   },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
