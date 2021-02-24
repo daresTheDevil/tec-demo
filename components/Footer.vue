@@ -7,7 +7,7 @@
           <div class="md:grid md:grid-cols-2 md:gap-8">
             <div>
               <h3
-                class="text-sm font-semibold text-gray-400 tracking-wider uppercase"
+                class="text-sm font-semibold text-gray-700 dark:text-gray-300 tracking-wider uppercase"
               >
                 Solutions
               </h3>
@@ -51,7 +51,7 @@
             </div>
             <div class="mt-12 md:mt-0">
               <h3
-                class="text-sm font-semibold text-gray-400 tracking-wider uppercase"
+                class="text-sm font-semibold text-gray-700 dark:text-gray-300 tracking-wider uppercase"
               >
                 Support
               </h3>
@@ -97,7 +97,7 @@
           <div class="md:grid md:grid-cols-2 md:gap-8">
             <div>
               <h3
-                class="text-sm font-semibold text-gray-400 tracking-wider uppercase"
+                class="text-sm font-semibold text-gray-700 dark:text-gray-300 tracking-wider uppercase"
               >
                 Company
               </h3>
@@ -150,7 +150,7 @@
             </div>
             <div class="mt-12 md:mt-0">
               <h3
-                class="text-sm font-semibold text-gray-400 tracking-wider uppercase"
+                class="text-sm font-semibold text-gray-700 dark:text-gray-300 tracking-wider uppercase"
               >
                 Legal
               </h3>
@@ -187,7 +187,7 @@
         </div>
         <div class="mt-8 xl:mt-0">
           <h3
-            class="text-sm font-semibold text-gray-400 tracking-wider uppercase"
+            class="text-sm font-semibold text-gray-700 dark:text-gray-300 tracking-wider uppercase"
           >
             Subscribe to our newsletter
           </h3>
@@ -298,7 +298,9 @@
             </svg>
           </a>
         </div>
-        <p class="mt-8 text-base text-gray-400 md:mt-0 md:order-1">
+        <p
+          class="mt-8 text-base text-gray-700 dark:text-gray-300 md:mt-0 md:order-1"
+        >
           &copy; 2020 TEC, Inc. All rights reserved.
         </p>
       </div>

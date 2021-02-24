@@ -55,6 +55,7 @@
                   'https://floating-wildwood-84086.herokuapp.com' +
                   post.image.url
                 "
+                alt="header image for card"
                 class="h-48 w-full object-cover"
               />
             </div>

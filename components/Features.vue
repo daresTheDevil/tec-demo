@@ -72,7 +72,7 @@
             systems.
           </p>
 
-          <dl class="mt-10 space-y-10">
+          <div class="mt-10 space-y-10">
             <div class="flex">
               <div class="flex-shrink-0">
                 <div
@@ -97,15 +97,15 @@
                 </div>
               </div>
               <div class="ml-4">
-                <dt
+                <div
                   class="text-lg leading-6 font-medium text-gray-900 dark:text-gray-100"
                 >
                   High speed fiber internet
-                </dt>
-                <dd class="mt-2 text-base text-gray-600 dark:text-gray-300">
+                </div>
+                <div class="mt-2 text-base text-gray-600 dark:text-gray-300">
                   Stream your favorite shows or run a business from home. No
                   data caps mean no limits.
-                </dd>
+                </div>
               </div>
             </div>
 
@@ -132,15 +132,15 @@
                 </div>
               </div>
               <div class="ml-4">
-                <dt
+                <div
                   class="text-lg leading-6 font-medium text-gray-900 dark:text-gray-100"
                 >
                   Home phone services
-                </dt>
-                <dd class="mt-2 text-base text-gray-600 dark:text-gray-300">
+                </div>
+                <div class="mt-2 text-base text-gray-600 dark:text-gray-300">
                   Talk with who you like, for as long as you like, with
                   unlimited plans and spam call protection.
-                </dd>
+                </div>
               </div>
             </div>
 
@@ -166,18 +166,18 @@
                 </div>
               </div>
               <div class="ml-4">
-                <dt
+                <div
                   class="text-lg leading-6 font-medium text-gray-900 dark:text-gray-100"
                 >
                   Home security
-                </dt>
-                <dd class="mt-2 text-base text-gray-600 dark:text-gray-300">
+                </div>
+                <div class="mt-2 text-base text-gray-600 dark:text-gray-300">
                   Secure and control your home from anywhere with 24/7
                   monitoring and smart home technology.
-                </dd>
+                </div>
               </div>
             </div>
-          </dl>
+          </div>
         </div>
 
         <div class="mt-10 -mx-4 relative lg:mt-0" aria-hidden="true">
@@ -217,7 +217,7 @@
             class="relative mx-auto rounded-lg shadow-lg"
             width="490"
             src="https://images.unsplash.com/photo-1591976711776-4a91184e0bf7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2167&q=80"
-            alt=""
+            alt="this is alt text"
           />
         </div>
       </div>
@@ -271,7 +271,7 @@
               technology services including Internet, voice, and security.
             </p>
 
-            <dl class="mt-10 space-y-10">
+            <div class="mt-10 space-y-10">
               <div class="flex">
                 <div class="flex-shrink-0">
                   <div
@@ -296,15 +296,15 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <dt
+                  <div
                     class="text-lg leading-6 font-medium text-gray-900 dark:text-gray-100"
                   >
                     High speed fiber internet
-                  </dt>
-                  <dd class="mt-2 text-base text-gray-600 dark:text-gray-300">
+                  </div>
+                  <div class="mt-2 text-base text-gray-600 dark:text-gray-300">
                     Take your business to the clouds with our range of business
                     class Internet and managed IT products.
-                  </dd>
+                  </div>
                 </div>
               </div>
 
@@ -331,15 +331,15 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <dt
+                  <div
                     class="text-lg leading-6 font-medium text-gray-900 dark:text-gray-100"
                   >
                     Business class phone services
-                  </dt>
-                  <dd class="mt-2 text-base text-gray-600 dark:text-gray-300">
+                  </div>
+                  <div class="mt-2 text-base text-gray-600 dark:text-gray-300">
                     Scale with ease. Our digital voice and cloud PBX products
                     provide flexibility and savings.
-                  </dd>
+                  </div>
                 </div>
               </div>
 
@@ -365,18 +365,18 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <dt
+                  <div
                     class="text-lg leading-6 font-medium text-gray-900 dark:text-gray-100"
                   >
                     Security
-                  </dt>
-                  <dd class="mt-2 text-base text-gray-600 dark:text-gray-300">
+                  </div>
+                  <div class="mt-2 text-base text-gray-600 dark:text-gray-300">
                     Protect your assets with a selection of products that
                     monitor, control, and automate your business.
-                  </dd>
+                  </div>
                 </div>
               </div>
-            </dl>
+            </div>
           </div>
 
           <div class="mt-10 -mx-4 relative lg:mt-0 lg:col-start-1">
@@ -418,7 +418,7 @@
               width="490"
               height="400"
               src="https://images.unsplash.com/photo-1590741861173-85035e8af62c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
-              alt=""
+              alt="this is alt text"
             />
           </div>
         </div>
