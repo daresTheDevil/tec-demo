@@ -51,7 +51,10 @@
           >
             <div class="flex-shrink-0">
               <img
-                :src="'http://localhost:1337' + post.image.url"
+                :src="
+                  'https://floating-wildwood-84086.herokuapp.com' +
+                  post.image.url
+                "
                 class="h-48 w-full object-cover"
               />
             </div>
