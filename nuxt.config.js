@@ -40,7 +40,12 @@ export default {
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
+    '@nuxtjs/strapi',
   ],
+  strapi: {
+    entities: ['posts'],
+    url: 'http://localhost:1337',
+  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
