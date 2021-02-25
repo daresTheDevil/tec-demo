@@ -47,7 +47,7 @@ export default {
     '@nuxtjs/strapi',
   ],
   strapi: {
-    entities: ['posts'],
+    entities: ['posts', 'heroes'],
     url: 'https://floating-wildwood-84086.herokuapp.com',
   },
 

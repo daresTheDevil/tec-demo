@@ -114,7 +114,6 @@ export default {
   async mounted() {
     try {
       this.posts = await this.$strapi.$posts.find()
-      console.log(this.posts)
     } catch (error) {
       this.error = error
     }
